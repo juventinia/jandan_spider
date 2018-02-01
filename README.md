@@ -1,2 +1,1 @@
-#spider_practice
-煎蛋的爬虫练习
+煎蛋网的爬虫
